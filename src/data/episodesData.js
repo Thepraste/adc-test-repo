@@ -277,7 +277,7 @@ export const onNowShows = [
   },
   {
     id: 'on-now-itage-tv',
-    streamUrl: https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8',
+    streamUrl: 'https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8',
     channelId: 'itage-tv',
     youtubeId: 'BAhn-P035_M',
     youtubeUrl: 'https://www.youtube.com/watch?v=BAhn-P035_M',
