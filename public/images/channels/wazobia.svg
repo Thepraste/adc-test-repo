@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 180" width="100%" height="100%">
+  <rect width="400" height="180" rx="20" fill="#18202c" stroke="#334155" stroke-width="2"/>
+  
+  <g transform="translate(30, 45)">
+    <!-- WAZOBIA in vibrant yellow/orange -->
+    <text x="10" y="55" fill="#f97316" font-family="'Impact', 'Arial Black', sans-serif" font-weight="900" font-size="52" letter-spacing="1">
+      WAZOBIA
+    </text>
+    
+    <!-- MAX badge -->
+    <rect x="252" y="15" width="84" height="48" rx="10" fill="#16a34a"/>
+    <text x="294" y="49" text-anchor="middle" fill="#ffffff" font-family="'Impact', sans-serif" font-weight="900" font-size="34" letter-spacing="1">
+      MAX
+    </text>
+  </g>
+  <text x="42" y="132" fill="#94a3b8" font-family="system-ui, sans-serif" font-weight="700" font-size="14" letter-spacing="3">
+    TELEVISION • NAIJA REAL TALK
+  </text>
+</svg>
